@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yarov\\source\\repos\\HeadHunter_API_Salary_Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79A28F7-B7C5-4B94-AFAD-AEAD65F8391B}|HeadHunter_API_Salary_Calc\\HeadHunter_API_Salary_Calc.csproj|c:\\users\\yarov\\source\\repos\\headhunter_api_salary_calc\\headhunter_api_salary_calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79A28F7-B7C5-4B94-AFAD-AEAD65F8391B}|HeadHunter_API_Salary_Calc\\HeadHunter_API_Salary_Calc.csproj|solutionrelative:headhunter_api_salary_calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yarov\\source\\repos\\HeadHunter_API_Salary_Calc\\HeadHunter_API_Salary_Calc\\Program.cs",
+              "RelativeDocumentMoniker": "HeadHunter_API_Salary_Calc\\Program.cs",
+              "ToolTip": "C:\\Users\\yarov\\source\\repos\\HeadHunter_API_Salary_Calc\\HeadHunter_API_Salary_Calc\\Program.cs",
+              "RelativeToolTip": "HeadHunter_API_Salary_Calc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:12:07.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\bin\Debug\net8.0\HeadHunter_API_Salary_Calc.exe
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\bin\Debug\net8.0\HeadHunter_API_Salary_Calc.deps.json
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\bin\Debug\net8.0\HeadHunter_API_Salary_Calc.runtimeconfig.json
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\bin\Debug\net8.0\HeadHunter_API_Salary_Calc.dll
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\bin\Debug\net8.0\HeadHunter_API_Salary_Calc.pdb
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.csproj.AssemblyReference.cache
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.AssemblyInfoInputs.cache
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.AssemblyInfo.cs
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.csproj.CoreCompileInputs.cache
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunt.E4D1BD4C.Up2Date
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.dll
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\refint\HeadHunter_API_Salary_Calc.dll
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.pdb
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\HeadHunter_API_Salary_Calc.genruntimeconfig.cache
+C:\Users\yarov\source\repos\HeadHunter_API_Salary_Calc\HeadHunter_API_Salary_Calc\obj\Debug\net8.0\ref\HeadHunter_API_Salary_Calc.dll
